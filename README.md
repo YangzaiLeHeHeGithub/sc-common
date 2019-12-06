@@ -1,2 +1,2 @@
-# sc-eureka
-eureka
+# sc-common
+common
