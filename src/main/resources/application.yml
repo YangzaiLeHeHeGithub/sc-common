@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: sc-common
+  profiles:
+    active: env,commons  #将commons放到最后
+
+
+
+
