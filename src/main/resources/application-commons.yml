@@ -9,6 +9,4 @@ logging:
 my:
   parserConfig:
     addAccept:
-      #      entity: com.unisound.crawler.entity.  #需要存到Redis里的实体类包名 redis fastjosn反序列化包名，
-      #      vo: com.unisound.crawler.vo.  #需要存到Redis里的实体类包名 redis fastjosn反序列化包名， 报错：com.alibaba.fastjson.JSONException: autoType is not support.
       domain: com.yz.git.sc.common
