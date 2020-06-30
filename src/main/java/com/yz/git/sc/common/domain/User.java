@@ -16,7 +16,7 @@ import lombok.ToString;
 @Setter
 @ToString
 public class User {
-
+    //003
     String username;
     Integer age;
     Integer gender;
