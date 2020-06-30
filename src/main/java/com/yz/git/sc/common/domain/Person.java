@@ -9,4 +9,5 @@ package com.yz.git.sc.common.domain;
 public class Person {
     //feature01
     //004
+    //006
 }
